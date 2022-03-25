@@ -18,7 +18,7 @@ election audit audit of a recent local congressional election.
 ## Summary
 The Analysis of the election show that:
 
-- There were "X" votes cast in the election 
+- There were 369,711 votes cast in the election 
 - The candidate were: 
     - Diana DeGette
     - Charles Casper Stockham
