@@ -40,4 +40,4 @@ The Analysis of the election show that:
     - Denver with 306,055 number of votes and 82.8% of the vote.
     - Arapahoe with 24,801 number of votes and 6.7% of the vote.
 
-- *** The largest county turnout is Denver ***
+** The largest county turnout is Denver **
