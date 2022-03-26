@@ -15,7 +15,7 @@ election audit audit of a recent local congressional election.
 - Data source : election_results.csv
 - Software : Python 3.10.2, Visual Studion Code 1.65.2
 
-## Summary
+## Winner Summary
 The Analysis of the election show that:
 
 - There were 369,711 votes cast in the election 
@@ -30,3 +30,14 @@ The Analysis of the election show that:
 - The winner of the election was : 
     - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes. 
 
+## County Summary
+- The county that were considered during the analysis of  this election were
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county results were as follows : 
+    - Jefferson with 38,855 number of votes and 10.5% of the vote.
+    - Denver with 306,055 number of votes and 82.8% of the vote.
+    - Arapahoe with 24,801 number of votes and 6.7% of the vote.
+
+- *** The largest county turnout is Denver ***
